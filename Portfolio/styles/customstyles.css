@@ -91,7 +91,13 @@ body {
 
       .footer-para {
         margin-top: 30px;
-      }      
+      }
+
+      @media only screenand (min-device-width : 375px) and (max-device-width : 667px) { 
+
+
+
+        }
 
       @media (max-width: 700px) {     
         .full-container {
