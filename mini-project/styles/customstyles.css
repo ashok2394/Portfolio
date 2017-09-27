@@ -1,0 +1,131 @@
+body {
+        font-family: Comic Sans MS !important;  
+        color: #555;
+      }
+
+      .container {
+        max-width: 800px;
+        margin: 3.5% auto;             
+      }      
+
+      .full-container { 
+        margin: 50px auto;
+        max-width: 800px;
+        box-shadow: -10px 0px 10px #ccc;
+        border-left: 1px solid rgba(0,0,0,.2);
+        border-right: 1px solid rgba(0,0,0,.2);
+      }
+
+      h3 {
+        font-weight: bold;
+      }        
+
+      .about-section {
+        margin-top: 30px;
+      }
+
+      .contact-section {
+        background: #eee;
+      }      
+
+      .contact-list {
+        margin-top: 20px;
+      }
+
+      .circle {
+        display: inline-block;
+        background: #000;
+        border-radius: 50%;
+        margin-top: 10px;
+        height: 2em;
+        width: 2em;
+        text-align: center;
+        padding-top: .3em;
+        margin-right: 5px;
+      }
+
+      .circle .fa,
+      .circle .glyphicon{
+        color: #fff;
+      }
+
+      
+
+      .skill-content-row {
+        margin-top: 20px;
+      }
+
+      .cert-section {        
+        background: #eee;
+      }
+
+      .cert-content {
+        margin-top: 20px;
+      }          
+
+      .attr-content {
+        margin-top: 20px;
+      } 
+
+      .edu-section {
+        background: #eee;
+      }
+
+      .edu-content {
+        margin-top: 20px;
+      }
+
+      .footer {           
+        background: #f0f0f0;    
+        height: 100%;
+      }      
+
+      .footer-links {
+        margin-top: 100px;
+      }
+
+      .footer-links i {
+        color: black;
+        font-size: 20px;
+      }
+
+      .footer-para {
+        margin-top: 30px;
+      }
+
+      @media only screenand (min-device-width : 375px) and (max-device-width : 667px) { 
+
+
+
+        }
+
+      @media (max-width: 700px) {     
+        .full-container {
+          max-width: 100%;
+          background: #eee;
+        } 
+
+        .container {
+          margin: 3% auto;
+          max-width: 100%;
+        }
+
+        .myPic {
+          margin: auto;
+          height: 300px;
+          width: 300px;
+        }        
+
+        .contact-section {
+          background: #eee;          
+        } 
+
+        .cert-section {        
+          background: #eee;          
+        }
+
+        .edu-section {
+          background: #eee;          
+        }
+
+      }

@@ -1,0 +1,40 @@
+<!-- Beginning of the carousel section -->
+    <div id="myCarousel" class="carousel slide">
+      <!-- Carousel Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+      <!--Carousel Items -->
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <img src="images/mountains.png" alt="slide1">
+          <div class="carousel-caption">
+            <h1>Get to know AngularJS</h1>
+            <br>
+            <button type="button" class="btn">Get Started</button>
+          </div>
+        </div>
+        <div class="item">
+          <img src="images/red.png" alt="slide2">
+          <div class="carousel-caption">
+            <h1>Get to know Bootstrap</h1>
+            <br>
+            <button type="button" class="btn">Get Started</button>
+          </div>
+        </div>
+        <div class="item">
+          <img src="images/snow.png" alt="slide3">
+        </div>
+      </div>
+      <!-- Carousel Navigation -->
+      <a href="#myCarousel" class="carousel-control left" data-slide="prev">&lsquo;
+        <span class="glyphicon glyphicon-chevron-left"></span>
+      </a>
+
+      <a href="#myCarousel" class="carousel-control right" data-slide="next">&rsquo;
+        <span class="glyphicon glyphicon-chevron-right"></span>
+      </a>
+    </div>
+    <!-- End of Carousel Section -->
