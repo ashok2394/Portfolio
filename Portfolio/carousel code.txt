@@ -25,7 +25,18 @@
           </div>
         </div>
         <div class="item">
-          <img src="images/snow.png" alt="slide3">
+       
+
+
+
+
+
+
+
+
+
+
+hey hey hey   <img src="images/snow.png" alt="slide3">
         </div>
       </div>
       <!-- Carousel Navigation -->
