@@ -25,18 +25,7 @@
           </div>
         </div>
         <div class="item">
-       
-
-
-
-
-
-
-
-
-
-
-hey hey hey   <img src="images/snow.png" alt="slide3">
+          <img src="images/snow.png" alt="slide3">
         </div>
       </div>
       <!-- Carousel Navigation -->
@@ -50,4 +39,3 @@ hey hey hey   <img src="images/snow.png" alt="slide3">
     </div>
     <!-- End of Carousel Section -->
 
-Hi have made some changes here too
